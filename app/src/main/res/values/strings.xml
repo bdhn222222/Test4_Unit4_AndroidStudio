@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">Beautifull Place in VietNam</string>
+    <string name="back_button">Back</string>
+
+    <string name="city1">Hà Nội</string>
+    <string name="city2">Đà Nẵng</string>
+    <string name="city3">Hồ Chí Minh</string>
+    <string name="city4">Huế</string>
+
+
+    <string name="city1_place1">Hồ Hoàn Kiếm</string>
+    <string name="city1_place1_desc">Hồ Hoàn Kiếm là một điểm đặc biệt trong lòng thành phố với vẻ đẹp tự nhiên tuyệt vời. Nằm giữa thành phố, hồ này được bao quanh bởi cây xanh và có một cây cầu Thê Húc cổ kính nối đến một hòn đảo trung tâm có đền Ngọc Sơn. Hồ Hoàn Kiếm cũng là nơi bạn có thể tham gia các hoạt động vui chơi như đi bộ, chụp ảnh và tận hưởng không gian yên tĩnh.</string>
+    <string name="city1_place1_add">Trung tâm thành phố Hà Nội, quận Hoàn Kiếm.</string>
+
+    <string name="city1_place2">Chợ Đồng Xuân</string>
+    <string name="city1_place2_desc">Chợ Đồng Xuân là một trong những chợ truyền thống lớn nhất Hà Nội. Nơi đây đông đúc và sầm uất, đầy màu sắc và âm thanh. Bạn có thể tìm thấy đa dạng các mặt hàng như quần áo, giày dép, đồ điện tử, đồ gia dụng và đặc sản. Hãy tham gia vào không gian chợ sôi động và thử những món ăn đường phố ngon lành.</string>
+    <string name="city1_place2_add">Số 16 phố Đồng Xuân, quận Hoàn Kiếm.</string>
+
+    <string name="city1_place3">Văn Miếu - Quốc Tử Giám</string>
+    <string name="city1_place3_desc">Văn Miếu - Quốc Tử Giám là một ngôi đền lịch sử quan trọng và một trong những di sản văn hóa hàng đầu của Hà Nội. Đây là nơi được xây dựng để tôn vinh các văn hóa sử học và là trường đại học đầu tiên của Việt Nam. Bạn có thể khám phá các kiến trúc truyền thống và tham quan các đền thờ và đài tưởng niệm nổi tiếng trong khuôn viên.</string>
+    <string name="city1_place3_add">Số 58 quốc tử giám, quận Đống Đa.</string>
+
+    <string name="city1_place4">Phố cổ Hà Nội</string>
+    <string name="city1_place4_desc">Phố cổ Hà Nội là một khu phố lịch sử với kiến trúc cổ, ngõ hẹp và những ngôi nhà truyền thống. Đây là trung tâm của hoạt động thương mại và văn hóa, và còn gọi là "36 phố phường". Bạn sẽ tìm thấy nhiều cửa hàng truyền thống, quán cà phê, nhà hàng và chợ đêm. Đây là nơi bạn có thể thưởng thức ẩm thực đặc sản, mua sắm các mặt hàng độc đáo và tìm hiểu về lịch sử và văn hóa của Hà Nội.</string>
+    <string name="city1_place4_add">Quận Hoàn Kiếm, Hà Nội.</string>
+
+
+    <string name="city2_place1">Bãi biển Mỹ Khê</string>
+    <string name="city2_place1_desc">Bãi biển Mỹ Khê là một trong những bãi biển đẹp nhất ở Đà Nẵng và cũng được xem là một trong những bãi biển đẹp nhất thế giới. Với bãi cát trắng mịn, nước biển trong xanh và không khí trong lành, đây là nơi lý tưởng để thư giãn, tắm nắng và tham gia vào các hoạt động thể thao biển. Bạn cũng có thể thưởng thức hải sản tươi ngon tại các quán ăn ven biển.</string>
+    <string name="city2_place1_add">Xóm Mỹ Khê, phường Mỹ An, quận Ngũ Hành Sơn, Đà Nẵng.</string>
+
+    <string name="city2_place2">Cầu Rồng</string>
+    <string name="city2_place2_desc">Cầu Rồng là một cây cầu nổi tiếng tại Đà Nẵng. Đặc biệt, cây cầu này có thiết kế hình con rồng và được trang trí bằng hàng ngàn đèn LED sáng rực, tạo ra một cảnh tượng lung linh vào ban đêm. Chứng kiến sự di chuyển của cầu khi nó khởi động và phun nước cũng là trải nghiệm thú vị. Cầu Rồng là biểu tượng của Đà Nẵng và là nơi bạn có thể tận hưởng không gian độc đáo và ngắm nhìn toàn cảnh thành phố.</string>
+    <string name="city2_place2_add">Đường Trần Hưng Đạo, quận Sơn Trà, Đà Nẵng.</string>
+
+    <string name="city2_place3">Ngũ Hành Sơn</string>
+    <string name="city2_place3_desc">Ngũ Hành Sơn là một nhóm núi đá vôi nổi tiếng nằm gần Đà Nẵng. Với các ngọn núi có tên gọi theo ngũ hành (Kim, Mộc, Thủy, Hỏa, Thổ), đây là nơi có cảnh quan thiên nhiên tuyệt đẹp và cũng là một khu du lịch và tâm linh quan trọng. Bạn có thể leo lên đỉnh núi để ngắm toàn cảnh vùng biển và thành phố, thăm các hang động, đền chùa và tham quan các xưởng điêu khắc đá nổi tiếng.</string>
+    <string name="city2_place3_add">Hoàng Sa, quận Ngũ Hành Sơn, Đà Nẵng.</string>
+
+    <string name="city2_place4">Chùa Linh Ứng</string>
+    <string name="city2_place4_desc">Chùa Linh Ứng là một ngôi chùa nằm trên núi Sơn Trà, mang đậm nét kiến trúc Á Đông truyền thống. Với tượng Phật cao nhất Việt Nam - tượng Phật Bà Quan Âm cao 67m, chùa Linh Ứng là một điểm đến tâm linh quan trọng và cũng là một nơi tuyệt vời để ngắm toàn cảnh biển và thành phố Đà Nẵng. Bạn có thể tham quan các tòa tháp, chùa và đi bộ trong không gian yên bLưu ý: Địa chỉ và mô tả có thể thay đổi theo thời gian, vì vậy hãy đảm bảo kiểm tra thông tin cập nhật trước khi bạn đến thăm.</string>
+    <string name="city2_place4_add">Xóm Ứng Hoè, phường Hòa Hiệp Nam, quận Liên Chiểu, Đà Nẵng.</string>
+
+
+    <string name="city3_place1">Công viên Tao Đàn</string>
+    <string name="city3_place1_desc">Công viên Tao Đàn là một hòn ngọc xanh giữa lòng TP.HCM. Với không gian rộng lớn và cây xanh dày đặc, công viên tạo ra một bầu không khí trong lành và yên tĩnh, tạo điểm đến lý tưởng để thư giãn và tận hưởng thiên nhiên. Bạn có thể dạo bước trong khu vườn, tham gia vào các hoạt động thể thao như cầu lông, yoga, và thưởng thức các món ăn đường phố tại các quán xung quanh công viên.</string>
+    <string name="city3_place1_add">55C Nguyễn Thị Minh Khai, phường Bến Nghé, Quận 1, TP.HCM.</string>
+
+    <string name="city3_place2">Chợ Bến Thành</string>
+    <string name="city3_place2_desc">Chợ Bến Thành là một trong những chợ truyền thống nổi tiếng và sầm uất nhất của TP.HCM. Đây là nơi bạn có thể trải nghiệm đúng chất của cuộc sống đô thị, với các gian hàng bán đa dạng các mặt hàng như thực phẩm tươi sống, hàng may mặc, đồ điện tử, và đặc sản. Bên trong chợ, bạn sẽ tìm thấy một lãnh thổ sôi động của màu sắc, âm thanh và hương vị, và có thể thưởng thức ẩm thực đường phố ngon lành.</string>
+    <string name="city3_place2_add">Đầu đường Lê Lợi, phường Bến Thành, Quận 1, TP.HCM.</string>
+
+    <string name="city3_place3">Nhà hát Thành phố Hồ Chí Minh </string>
+    <string name="city3_place3_desc">Nhà hát Thành phố Hồ Chí Minh là một biểu tượng văn hóa đặc trưng của thành phố. Với kiến trúc tuyệt đẹp và đẳng cấp, nơi này là trung tâm của nghệ thuật biểu diễn và văn hóa. Nhà hát tổ chức nhiều buổi diễn nhạc, vở kịch, và biểu diễn nghệ thuật khác, từ nhạc kịch cổ điển đến nhạc pop và opera. Bạn có thể thưởng thức các buổi biểu diễn tại đây và chiêm ngưỡng vẻ đẹp của kiến trúc nghệ thuật.</string>
+    <string name="city3_place3_add">7 Công Trường Lam Sơn, phường Bến Nghé, Quận 1, TP.HCM.</string>
+
+    <string name="city3_place4">Bảo tàng Hồ Chí Minh</string>
+    <string name="city3_place4_desc">Bảo tàng Hồ Chí Minh là nơi lưu giữ và trưng bày các hiện vật và tư liệu về cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh - người đã dẫn đầu cuộc cách mạng Việt Nam. Bảo tàng cung cấp một cái nhìn sâu sắc về lịch sử và văn hóa của đất nước. Bạn có thể tìm hiểu về cuộc sống và sự đóng góp của Chủ tịch Hồ Chí Minh thôngqua các trưng bày, hình ảnh, tư liệu và dioramas. Việc tham quan bảo tàng sẽ giúp bạn hiểu rõ hơn về người lãnh đạo vĩ đại này và tầm quan trọng của ông đối với lịch sử và văn hóa của Việt Nam.</string>
+    <string name="city3_place4_add">Số 19 Ngô Thời Nhiệm, phường Bến Nghé, Quận 1, TP.HCM.</string>
+
+
+    <string name="city4_place1">Đại Nội (Cung điện Huế)</string>
+    <string name="city4_place1_desc">Đại Nội là một trong những điểm đến không thể bỏ qua khi bạn đến Huế. Đây là nơi có Cung điện Huế, nơi cư trú của các vị hoàng đế Nguyễn trong thời kỳ triều đại. Với kiến trúc hoành tráng và tinh tế, Đại Nội mang trong mình vẻ đẹp lịch sử và văn hóa đặc trưng của Huế. Bạn có thể khám phá các phòng cung điện, sân vườn và kiến trúc độc đáo, cũng như tìm hiểu về lịch sử và di sản văn hóa của vương triều Nguyễn.</string>
+    <string name="city4_place1_add">Khu vực trung tâm thành phố Huế.</string>
+
+    <string name="city4_place2">Chùa Thiên Mụ</string>
+    <string name="city4_place2_desc">Chùa Thiên Mụ là một ngôi chùa nổi tiếng và là biểu tượng của thành phố Huế. Với kiến trúc đặc trưng và vị trí đẹp trên đồi Hà Khê, chùa Thiên Mụ tạo nên một cảnh quan tuyệt đẹp. Bạn có thể tham quan các tòa tháp, đền chùa, và điện thờ, và thưởng ngoạn các tượng Phật và những bức tranh độc đáo. Từ chùa, bạn có thể ngắm toàn cảnh thành phố Huế và sông Hương.</string>
+    <string name="city4_place2_add">Số 1 Hương Hòa, phường Kim Long, quận Hương Long, thành phố Huế.</string>
+
+    <string name="city4_place3">Kinh thành Huế</string>
+    <string name="city4_place3_desc">Kinh thành Huế là một hệ thống công trình phòng thủ và cung điện xây dựng trong thời kỳ triều đại vương triều Nguyễn. Đây là nơi có các cung điện, cổng thành, hồ, và khu vực bảo vệ xung quanh. Kinh thành Huế là một di sản văn hóa quan trọng và mang trong mình vẻ đẹp và sự trang trọng của kiến trúc cổ. Bạn có thể khám phá các cung điện, đền chùa và tìm hiểu về lịch sử và văn hóa của triều đại Nguyễn.</string>
+    <string name="city4_place3_add">Khu vực trung tâm thành phố Huế.</string>
+
+    <string name="city4_place4">Sông Hương</string>
+    <string name="city4_place4_desc">Sông Hương là một dòng sông quan trọng và làm nổi bật vẻ đẹp của thành phố Huế. Với dòng nước êm đềm và cảnh quan xung quanh, sông Hương tạo nên một không gian yên bình và thơ mộng. Bạn có thể thuê thuyền đi dọc theo sông để ngắm cảnh thành phố, tham quan các ngôi đền chùa ven sông và thưởng thức các món ăn đặc sản Huế trên thuyền.</string>
+    <string name="city4_place4_add">Chảy qua thành phố Huế.</string>
+
+</resources>
